@@ -25,7 +25,7 @@ Estou sempre em busca de **inovação** e **aprendizado contínuo** para atender
 
 ### 🌱 Estou focado em:
 
-- Aperfeiçoar minhas habilidades em **C# (**.NET**). Também estou praticando os conceitos do React e Node.js.
+- Aperfeiçoar minhas habilidades em **C# (.NET)**. Também estou praticando os conceitos do React e Node.js.
 - Expandir meu domínio em **Tecnologias Full Stack**
 - Contribuir para projetos de código aberto e colaborar com a comunidade de desenvolvedores
 

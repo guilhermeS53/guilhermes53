@@ -34,7 +34,3 @@ Estou sempre em busca de **inovação** e **aprendizado contínuo** para atender
 - LinkedIn: https://www.linkedin.com/in/guilherme-sousa-bbb983184
 - Portfólio Profissional: https://guilhermes53.github.io
 - Email: guilhermetxt53@gmail.com
-
----
-
-✨ **Vamos criar algo incrível juntos!** ✨

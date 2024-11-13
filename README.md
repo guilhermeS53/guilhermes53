@@ -1,6 +1,6 @@
-# Olá! Eu sou Guilherme Sousa. 👋
-
+# Olá! Eu sou Guilherme Sousa 👋
 Desenvolvedor Fullstack com vasta experiência em **criação de aplicações web escaláveis e responsivas**. Tenho um forte conhecimento em tecnologias modernas e frameworks que me permitem entregar soluções eficientes e seguras.
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
